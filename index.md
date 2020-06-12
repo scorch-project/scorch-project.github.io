@@ -39,7 +39,11 @@ feature_row:
 
 {% include feature_row id="intro"  %}
 
-| ![The University of Mancester](/assets/images/manchester.png) | ![The University of Oxford](/assets/images/oxford.png) | ![ARM Ltd](/assets/images/arm.png) | ![AWS](/assets/images/aws.jpg)
+<br>
+<center>
+ <img src="/assets/images/manchester.png">  <img src="/assets/images/oxford.png">  
+</center>
+<br>
 
 {% include feature_row %}
 
