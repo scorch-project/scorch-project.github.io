@@ -75,4 +75,4 @@ SCorCH will be guided by an advisory board consisting of the following:
 - <a href="http://www0.cs.ucl.ac.uk/staff/b.cook/">Professor Byron Cook, University College London/Amazon Web Services</a>
 - <a href="https://www.cl.cam.ac.uk/~pes20/">Professor Peter Sewell, University of Cambridge</a>
 - <a href="http://www.cs.ox.ac.uk/tom.melham/home.html">Professor Tom Melham, University of Oxford</a> 
-- <a href="http://apt.cs.manchester.ac.uk/people/mlujan/">Professor Mikel Luján, University of Manchester</a>
+- <a href="https://www.linkedin.com/in/mikellujan/">Professor Mikel Luján, University of Manchester</a>
