@@ -5,6 +5,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.8"
   overlay_image: /assets/images/unsplash_fire.jpg
+  image: /assets/images/full_logo.jpg
+  og_image: /assets/images/full_logo.jpg
 excerpt: "Formal Security Analysis Tools for Capability Hardware."
 
 feature_row:
