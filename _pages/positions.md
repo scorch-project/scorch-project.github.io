@@ -3,13 +3,9 @@ permalink: /positions/
 title: "Positions"
 ---
 
-<p>
 SCorCH is looking to hire four postdoctoral research associates in the areas listed below. Information on how to apply will be made available shortly and initial queries and expressions of interest can be directed to <a href="mailto:giles.reger@manchester.ac.uk">Dr Giles Reger</a>.
-</p>
 
-<p>
 In all cases we are looking for candidates with a track record of publication and experience putting research into practice through the development of tools. Given the setting, we are also keen to find canditates comfortable with the C ecosystem and the related systems and architectural concepts related to the CHERI project.
-</p>
 
 {: .notice--info}
 <b>Model Checking</b> <em>(Manchester and Oxford)</em>. We are looking for two candidates to work on extensions to the CBMC and/or ESBMC software model checkers to (i) support the capability hardware setting, and (ii) improve their scalability and applicability. The ideal candidate will have experience with software model checking but we are also interested in experience with fuzzing, symbolic execution, or abstract interpretation techniques.  
