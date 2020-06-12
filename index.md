@@ -5,11 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.8"
   overlay_image: /assets/images/unsplash_fire.jpg
-#  actions:
-#    - label: "Download"
-#      url: "https://github.com/mmistakes/minimal-mistakes/"
-#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Producing Formal Security Analysis Tools for a new generation of Capability Hardware."
+excerpt: "Formal Security Analysis Tools for Capability Hardware."
 
 feature_row:
   - image_path: "/assets/images/lock.png"
