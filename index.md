@@ -3,16 +3,13 @@ title: "SCorCH"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.8"
   overlay_image: /assets/images/unsplash_fire.jpg
 #  actions:
 #    - label: "Download"
 #      url: "https://github.com/mmistakes/minimal-mistakes/"
 #  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Producing Formal Security Analysis Tools for a new generation of Capability Hardware."
-intro: 
-  - excerpt: 'SCorCH will leverage new advances in formal analysis tools to find security issues in code running on a new generation of security-aware hardware chips. Funded under the <a href="https://www.ukri.org/innovation/industrial-strategy-challenge-fund/digital-security-by-design/">ISCF Digitial Security by Design challenge</a>, SCorCH is a collaboration between The University of Manchester, The University of Oxford, ARM Ltd, and Amazon AWS.'
-
 
 feature_row:
   - image_path: "/assets/images/lock.png"
@@ -38,7 +35,9 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+|<img src="/assets/images/full_logo_small.jpg">|SCorCH will leverage new advances in formal analysis tools to find security issues in code running on a new generation of security-aware hardware chips. Funded under the <a href="https://www.ukri.org/innovation/industrial-strategy-challenge-fund/digital-security-by-design/">ISCF Digitial Security by Design challenge</a>, SCorCH is a collaboration between The University of Manchester, The University of Oxford, ARM Ltd, and Amazon AWS.|
+
+{% include feature_row id="intro"  %}
 
 | ![The University of Mancester](/assets/images/manchester.png) | ![The University of Oxford](/assets/images/oxford.png) | ![ARM Ltd](/assets/images/arm.png) | ![AWS](/assets/images/aws.jpg)
 
