@@ -71,7 +71,7 @@ The SCorCH team is spread between the University of Manchester and the Universit
 <h2>Advisory Board</h2>
 
 SCorCH will be guided by an advisory board consisting of the following:
-- Travis Walton, ARM
+- <a href="https://www.linkedin.com/in/travis-walton-58a66519b/">Travis Walton, Distinguished Engineer at Arm</a>
 - <a href="http://www0.cs.ucl.ac.uk/staff/b.cook/">Professor Byron Cook, University College London/Amazon Web Services</a>
 - <a href="https://www.cl.cam.ac.uk/~pes20/">Professor Peter Sewell, University of Cambridge</a>
 - <a href="http://www.cs.ox.ac.uk/tom.melham/home.html">Professor Tom Melham, University of Oxford</a> 
