@@ -10,10 +10,17 @@ team:
     url: "http://www.cs.man.ac.uk/~regerg/"
     btn_label: "Website"
     btn_class: "btn--primary"
+  - image_path: "/assets/team/tom.jpg"
+    alt: "Tom Melham"
+    title: "Tom Melham"
+    excerpt: 'Tom Melham is a Professor in the Department of Computer Science at the University of Oxford. He is an expert in formal hardware verification, model checking, and theorem proving.'
+    url: "http://www.cs.ox.ac.uk/tom.melham/home.html"
+    btn_label: "Website"
+    btn_class: "btn--primary"
   - image_path: "/assets/team/daniel.jpg"
     alt: "Daniel Kroening"
     title: "Daniel Kroening"
-    excerpt: 'Daniel Kroening is a Professor in the Department of Computer Science at the University of Oxford. He is well known for his contributions to model checking and decision procedures for automated software analysis. He leads the development of the <a href="http://www.cs.cmu.edu/~modelcheck/cbmc/">CBMC model checker</a>.'
+    excerpt: 'Daniel Kroening is a Senior Principal Scientist at Amazon Web Services and a Professor in the Department of Computer Science at the University of Oxford. He is well known for his contributions to model checking and decision procedures for automated software analysis. He leads the development of the <a href="http://www.cs.cmu.edu/~modelcheck/cbmc/">CBMC model checker</a>.'
     url: "http://www.kroening.com"
     btn_label: "Website"
     btn_class: "btn--primary"
