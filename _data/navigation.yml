@@ -5,5 +5,7 @@ main:
     url: /news/
   - title: "Team"
     url: /team/
+  - title: "Publications"
+    url: /publications/
   - title: "Positions"
     url: /positions/
