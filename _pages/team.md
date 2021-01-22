@@ -52,21 +52,29 @@ team:
     url: "https://www.research.manchester.ac.uk/portal/mustafa.mustafa.html"
     btn_label: "Website"
     btn_class: "btn--primary"
+  - image_path: "/assets/team/fedor.jpg"
+    title: "Fedor Shmarov"
+    alt: "Fedor Shmarov"
+    excerpt: "Fedor Shmarov is a Research Associate in the Department of Computer Science at
+    The University of Manchester. His research expertise include model checking and 
+    formal verification of stochastic hybrid systems."
+    url: "https://shmarov.com"
+    btn_label: "Website"
+    btn_class: "btn--primary"
+  - image_path: "/assets/team/blank5.png"
+    title: "Ahmed Bhayat"
+    alt: "Ahmed Bhayat"
+    excerpt: 'Ahmed Bhayat is a Research Assistant in the Department of Computer Science at The University of Manchester. Amongst his areas of interests are automated reasoning, lambda calculus and type theory. He is involved in the development of the <a href="https://vprover.github.io">Vampire theorem prover</a>.'
+    url: "/positions"
+    btn_label: "Find Out More"
+    btn_class: "btn--primary"
   - image_path: "/assets/team/blank4.png"
     title: "You?"
     alt: "You"
-    excerpt: "We are looking for four talented Research Associates to join the teams in Manchester and Oxford. Could this be you?"
+    excerpt: "We are looking for a talented Research Associate to join the team in Oxford. Could this be you?"
     url: "/positions"
     btn_label: "Find Out More"
     btn_class: "btn--primary"
-  - image_path: "/assets/team/blank5.png"
-    title: "You?"
-    alt: "You"
-    excerpt: "We are looking for four talented Research Associates to join the teams in Manchester and Oxford. Could this be you?"
-    url: "/positions"
-    btn_label: "Find Out More"
-    btn_class: "btn--primary"
-
 ---
 
 <h1>Team</h1>
