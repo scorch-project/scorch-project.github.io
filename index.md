@@ -33,7 +33,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-|<img src="/assets/images/full_logo_small.jpg">|SCorCH will leverage new advances in formal analysis tools to find security issues in code running on a new generation of security-aware hardware chips. Funded under the <a href="https://www.ukri.org/innovation/industrial-strategy-challenge-fund/digital-security-by-design/">ISCF Digitial Security by Design challenge</a>, SCorCH is a collaboration between The University of Manchester, The University of Oxford, ARM Ltd, and Amazon AWS.|
+|<img src="/assets/images/full_logo_small.jpg">|SCorCH will leverage new advances in formal analysis tools to find security issues in code running on a new generation of security-aware hardware chips. Funded under the <a href="https://www.ukri.org/our-work/our-main-funds/industrial-strategy-challenge-fund/">ISCF</a> <a href="https://www.ukri.org/our-work/our-main-funds/industrial-strategy-challenge-fund/artificial-intelligence-and-data-economy/digital-security-by-design-challenge/">Digital Security by Design (DSbD) Programme</a>, SCorCH aims to deliver DSbD technology enabled solutions for safety-critical applications. SCorCH is a collaboration between The University of Manchester, The University of Oxford, ARM Ltd, and Amazon AWS.|
 
 {% include feature_row id="intro"  %}
 
