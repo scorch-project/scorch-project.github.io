@@ -75,7 +75,6 @@ team:
     url: "https://github.com/kaled-alshmrany"
     btn_label: "Website"
     btn_class: "btn--primary"	
-
   - image_path: "/assets/team/blank4.png"
     title: "You?"
     alt: "You"
