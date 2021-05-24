@@ -61,7 +61,7 @@ team:
     url: "https://shmarov.com"
     btn_label: "Website"
     btn_class: "btn--primary"
-  - image_path: "/assets/team/blank5.png"
+  - image_path: "/assets/team/ahmed.jpg"
     title: "Ahmed Bhayat"
     alt: "Ahmed Bhayat"
     excerpt: 'Ahmed Bhayat is a Research Assistant in the Department of Computer Science at The University of Manchester. Amongst his areas of interests are automated reasoning, lambda calculus and type theory. He is involved in the development of the <a href="https://vprover.github.io">Vampire theorem prover</a>.'
