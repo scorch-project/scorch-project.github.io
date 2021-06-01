@@ -72,7 +72,7 @@ team:
     title: "Kaled Alshmrany"
     alt: "Kaled Alshmrany"
     excerpt: "Kaled Alshmrany is a PhD candidate at The University of Manchester and a Faculty Member at The Institute of Public Administration (IPA), Saudi Arabia. He is a lead developer of the tool FuSeBMC."
-    url: "https://github.com/kaled-alshmrany"
+    url: "https://www.research.manchester.ac.uk/portal/kaled.alshmrany-postgrad.html"
     btn_label: "Website"
     btn_class: "btn--primary"	
   - image_path: "/assets/team/blank4.png"
