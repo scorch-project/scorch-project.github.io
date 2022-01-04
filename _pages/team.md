@@ -97,6 +97,13 @@ associates:
     url: "https://www.research.manchester.ac.uk/portal/kaled.alshmrany-postgrad.html"
     btn_label: "Website"
     btn_class: "btn--primary"
+  - image_path: "/assets/team/hugo.jpeg"
+    title: "Hugo Lefeuvre"
+    alt: "Hugo Lefeuvre"
+    excerpt: ""
+    url: ""
+    btn_label: "Website"
+    btn_class: "btn--primary"
 ---
 
 <h1>Team</h1>
