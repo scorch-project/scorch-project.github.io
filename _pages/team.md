@@ -111,6 +111,18 @@ associates:
     url: "https://dpgao.cc/about.html"
     btn_label: "Website"
     btn_class: "btn--primary"
+  - image_path: "/assets/team/blank5.png"
+    title: "Fareed Arif"
+    alt: "Fareed Arif"
+    excerpt: 'Fareed is a research associate at the University of Oxford working on the related <a href="https://soteriaresearch.org/">Soteria project</a>. He has expertise in formal verification that include static and dynamic analysis techniques for validation of hardware and software systems'
+    url: "https://www.linkedin.com/in/fareed-arif-a0782a199/"
+    btn_label: "Website"
+    btn_class: "btn--primary"
+  - image_path: "/assets/team/blank5.png"
+    title: "Kunjian Song"
+    alt: "Kunjian Song"
+    excerpt: 'Kunjian is a research associate at the University of Manchester working on the related <a href="https://soteriaresearch.org/"</a>Soteria project</a>. Prior to joining Soteria he was an engineer at ARM Cambridge and completed his MSc contributing to the ESBMC model checker.'
+    url: "https://www.linkedin.com/in/kunjian-song-a120007b/
 ---
 
 <h1>Team</h1>
