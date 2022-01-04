@@ -100,15 +100,15 @@ associates:
   - image_path: "/assets/team/hugo.jpeg"
     title: "Hugo Lefeuvre"
     alt: "Hugo Lefeuvre"
-    excerpt: "Hugo Lefeuvre is a PhD candidate at The University of Manchester within the Advanced Processor Technologies group. He is a lead designer of the FlexOS system exploring isolation within operating systems"
+    excerpt: 'Hugo Lefeuvre is a PhD candidate at The University of Manchester within the Advanced Processor Technologies group. He is a lead designer of the <a href="https://github.com/project-flexos/unikraft">FlexOS</a> system exploring isolation within operating systems'
     url: "https://owl.eu.com/research.html"
     btn_label: "Website"
     btn_class: "btn--primary"
   - image_path: "/assets/team/blank5.png"
     title: "Dapeng Gao"
     alt: "Dapeng Gao"
-    excerpt: ""
-    url: ""
+    excerpt: 'Dapeng is a PhD candidate at the University of Cambridge and completed his Masters at the University of Oxford. During his Masters he collaborated with Tom Melham on <a href="https://doi.org/10.34727/2021/isbn.978-3-85448-046-4_10">end-to-end verification of the CHERI RISC-V processor</a>.'
+    url: "https://dpgao.cc/about.html"
     btn_label: "Website"
     btn_class: "btn--primary"
 ---
