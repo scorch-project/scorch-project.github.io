@@ -64,10 +64,17 @@ team:
   - image_path: "/assets/team/ahmed.jpg"
     title: "Ahmed Bhayat"
     alt: "Ahmed Bhayat"
-    excerpt: 'Ahmed Bhayat is a Research Assistant in the Department of Computer Science at The University of Manchester. Amongst his areas of interests are automated reasoning, lambda calculus and type theory. He is involved in the development of the <a href="https://vprover.github.io">Vampire theorem prover</a>.'
+    excerpt: 'Ahmed Bhayat is a Research Associate in the Department of Computer Science at The University of Manchester. Amongst his areas of interests are automated reasoning, lambda calculus and type theory. He is involved in the development of the <a href="https://vprover.github.io">Vampire theorem prover</a>.'
     url: "https://www.research.manchester.ac.uk/portal/en/researchers/ahmed-bhayat(ef56220a-ae7f-4f56-bb32-5f7f01494599).html"
     btn_label: "Website"
     btn_class: "btn--primary"
+  - image_path: "/assets/team/franz.jpeg"
+    title: "Franz Brauße"
+    alt: "Franz Brauße"
+    excerpt: 'Franz is a Research  Associate  in the Department of Computer Science at the University of Manchester. His area of interest lie in computable analysis and its efficient software implementations.' 
+    url: "http://informatik.uni-trier.de/~brausse/personal/index.xhtml"
+    btn_label: "Website"
+    btn_class: "btn--primary"    
   - image_path: "/assets/team/seung.jpg"
     title: "Seung Hoon Park"
     alt: "Seung Hoon Park"
