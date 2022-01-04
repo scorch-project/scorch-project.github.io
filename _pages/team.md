@@ -97,13 +97,6 @@ associates:
     url: "https://www.research.manchester.ac.uk/portal/kaled.alshmrany-postgrad.html"
     btn_label: "Website"
     btn_class: "btn--primary"
-  - image_path: "/assets/team/hugo.jpeg"
-    title: "Hugo Lefeuvre"
-    alt: "Hugo Lefeuvre"
-    excerpt: "Hugo Lefeuvre is a PhD candidate at The University of Manchester within the Advanced Processor Technologies group. He is a lead designer of the <a href="https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s05-lefeuvre.pdf">FlexOS</a> system exploring isolation within operating systems."
-    url: "https://owl.eu.com/research.html"
-    btn_label: "Website"
-    btn_class: "btn--primary"
 ---
 
 <h1>Team</h1>
