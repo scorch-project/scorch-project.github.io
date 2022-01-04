@@ -104,13 +104,6 @@ associates:
     url: "https://owl.eu.com/research.html"
     btn_label: "Website"
     btn_class: "btn--primary"
-  - image_path: "/assets/team/blank5.png"
-    title: "Dapeng Gao"
-    alt: "Dapeng Gao"
-    excerpt: "Dapeng is a PhD candidate at the University of Cambridge and completed his Masters at the University of Oxford. During his Masters he collaborated with Tom Melham on <a href="https://doi.org/10.34727/2021/isbn.978-3-85448-046-4_10">end-to-end verification of the CHERI RISC-V processor</a>."
-    url: "https://dpgao.cc/about.html"
-    btn_label: "Website"
-    btn_class: "btn--primary"
 ---
 
 <h1>Team</h1>
@@ -125,7 +118,7 @@ The SCorCH team is spread between the University of Manchester and the Universit
 
 <h2>Advisory Board</h2>
 
-SCorCH will be guided by an advisory board consisting of the following:
+SCorCH is guided by an advisory board consisting of the following:
 - <a href="https://www.linkedin.com/in/travis-walton-58a66519b/">Travis Walton, Distinguished Engineer at Arm</a>
 - <a href="http://www0.cs.ucl.ac.uk/staff/b.cook/">Professor Byron Cook, University College London/Amazon Web Services</a>
 - <a href="https://www.cl.cam.ac.uk/~pes20/">Professor Peter Sewell, University of Cambridge</a>
