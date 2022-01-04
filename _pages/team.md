@@ -104,6 +104,13 @@ associates:
     url: "https://owl.eu.com/research.html"
     btn_label: "Website"
     btn_class: "btn--primary"
+  - image_path: "/assets/team/blank5.png"
+    title: "Dapeng Gao"
+    alt: "Dapeng Gao"
+    excerpt: ""
+    url: ""
+    btn_label: "Website"
+    btn_class: "btn--primary"
 ---
 
 <h1>Team</h1>
