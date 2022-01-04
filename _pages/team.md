@@ -123,6 +123,8 @@ associates:
     alt: "Kunjian Song"
     excerpt: 'Kunjian is a research associate at the University of Manchester working on the related <a href="https://soteriaresearch.org/">Soteria project</a>. Prior to joining Soteria he was an engineer at ARM Cambridge and completed his MSc contributing to the ESBMC model checker.'
     url: "https://www.linkedin.com/in/kunjian-song-a120007b/"
+    btn_label: "Website"
+    btn_class: "btn--primary"
 ---
 
 <h1>Team</h1>
