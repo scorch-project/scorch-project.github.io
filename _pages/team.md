@@ -68,13 +68,6 @@ team:
     url: "https://www.research.manchester.ac.uk/portal/en/researchers/ahmed-bhayat(ef56220a-ae7f-4f56-bb32-5f7f01494599).html"
     btn_label: "Website"
     btn_class: "btn--primary"
-  - image_path: "/assets/team/kaled.jpeg"
-    title: "Kaled Alshmrany"
-    alt: "Kaled Alshmrany"
-    excerpt: 'Kaled Alshmrany is a PhD candidate at The University of Manchester and a Faculty Member at The Institute of Public Administration (IPA), Saudi Arabia. He is a lead developer of the tool <a href="https://github.com/kaled-alshmrany/FuSeBMC">FuSeBMC</a>.'
-    url: "https://www.research.manchester.ac.uk/portal/kaled.alshmrany-postgrad.html"
-    btn_label: "Website"
-    btn_class: "btn--primary"	
   - image_path: "/assets/team/seung.jpg"
     title: "Seung Hoon Park"
     alt: "Seung Hoon Park"
@@ -96,6 +89,15 @@ team:
     url: "/positions"
     btn_label: "Find Out More"
     btn_class: "btn--primary"
+associates:
+  - image_path: "/assets/team/kaled.jpeg"
+    title: "Kaled Alshmrany"
+    alt: "Kaled Alshmrany"
+    excerpt: 'Kaled Alshmrany is a PhD candidate at The University of Manchester and a Faculty Member at The Institute of Public Administration (IPA), Saudi Arabia. He is a lead developer of the tool <a href="https://github.com/kaled-alshmrany/FuSeBMC">FuSeBMC</a>.'
+    url: "https://www.research.manchester.ac.uk/portal/kaled.alshmrany-postgrad.html"
+    btn_label: "Website"
+    btn_class: "btn--primary"
+
 ---
 
 <h1>Team</h1>
@@ -103,6 +105,10 @@ team:
 The SCorCH team is spread between the University of Manchester and the University of Oxford.
 
 {% include feature_row id="team" %}
+
+<h2>Associates</h2>
+
+{% include feature_row id="associates" %}
 
 <h2>Advisory Board</h2>
 
