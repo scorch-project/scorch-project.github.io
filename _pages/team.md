@@ -100,8 +100,8 @@ associates:
   - image_path: "/assets/team/hugo.jpeg"
     title: "Hugo Lefeuvre"
     alt: "Hugo Lefeuvre"
-    excerpt: ""
-    url: ""
+    excerpt: "Hugo Lefeuvre is a PhD candidate at The University of Manchester within the Advanced Processor Technologies group. He is a lead designer of the FlexOS system exploring isolation within operating systems"
+    url: "https://owl.eu.com/research.html"
     btn_label: "Website"
     btn_class: "btn--primary"
 ---
