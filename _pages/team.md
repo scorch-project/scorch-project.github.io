@@ -79,7 +79,7 @@ team:
     title: "Seung Hoon Park"
     alt: "Seung Hoon Park"
     excerpt: "Seung Hoon Park is a Research Assistant in the Department of Computer Science at the University of Oxford. His area of interest lies in programming languages, formal verification and model checking."
-    url: "/team"
+    url: "https://www.cs.ox.ac.uk/people/simon.park/"
     btn_label: "Website"
     btn_class: "btn--primary"
   - image_path: "/assets/team/rekha.jpg"
