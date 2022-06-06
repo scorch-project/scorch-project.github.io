@@ -86,7 +86,7 @@ team:
     title: "Rekha Pai"
     alt: "Rekha Pai"
     excerpt: "Rekha Pai is a Research Associate in the Department of Computer Science at the University of Oxford. Her primary research interest is in verification of embedded systems."
-    url: "http://clweb.csa.iisc.ac.in/rekhapai/"
+    url: "https://www.cs.ox.ac.uk/people/rekha.pai/home.html"
     btn_label: "Website"
     btn_class: "btn--primary"
   - image_path: "/assets/team/blank4.png"
