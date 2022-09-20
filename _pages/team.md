@@ -132,6 +132,13 @@ associates:
     url: "https://www.linkedin.com/in/kunjian-song-a120007b/"
     btn_label: "Website"
     btn_class: "btn--primary"
+  - image_path: "/assets/team/avi.jpg"
+    title: "Avi Shaked"
+    alt: "Avi Shaked"
+    excerpt: 'Avi Shaked is a Senior Research Associate in the Department of Computer Science at the University of Oxford. Avi has significant industrial and research experience in systems engineering and systems security. His research interests include systems design and domain-specific modelling.'
+    url: "https://www.cs.ox.ac.uk/people/avi.shaked/"
+    btn_label: "Website"
+    btn_class: "btn--primary"
 ---
 
 <h1>Team</h1>
