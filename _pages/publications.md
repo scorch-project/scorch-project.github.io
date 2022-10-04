@@ -2,6 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
+- <em>Bhayat, A., Georgiou, P., Eisenhofer, C., Kovács, L., Reger, G., .</em> "<strong>Lemmaless Induction in Trace Logic</strong>". <em>in International Conference on Intelligent Computer Mathematics(CICM 2022), 2022</em>.
 - <em>Brauße, F., Shmarov, F., Menezes, R., Gadelha, M.R., Korovin K., Reger, G., Cordeiro, L.</em> "<strong>ESBMC-CHERI: Towards Verification of C Programs for CHERI Platforms with ESBMC</strong>". <em>To appear in ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2022), 2022</em>.
 - <em>Alshmrany, K., Aldughaim, M, Bhayat, A., Cordeiro, L.</em> "<strong>FuSeBMC v4: Smart Seed Generation for Hybrid Fuzzing</strong>". <em> In Fundamental Approaches to Software Engineering. FASE 2022. Lecture Notes in Computer Science, vol 13241. Springer, Cham, 2022</em>.
 - <em>Song, K., Matulevicius N., de Lima Filho, E.B., Cordeiro, L.</em> "<strong>ESBMC-Solidity: An SMT-Based Model Checker for Solidity Smart Contracts</strong>". <em>In 44th International Conference on Software Engineering (ICSE 2022), 2022</em>.
