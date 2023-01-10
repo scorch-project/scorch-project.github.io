@@ -2,6 +2,9 @@
 permalink: /publications/
 title: "Publications"
 ---
+- <em>Park, S.H., Pai, R., Melham, T.</em> "<strong><a href='https://arxiv.org/abs/2211.07511'>A Formal CHERI-C Semantics for Verification
+</a></strong>". <em>In 29th International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS). (Accepted/In press)</em>.
+- <em>Lefeuvre, H., Bădoiu, V.A., Chien, Y., Huici, F., Dautenhahn, N., Olivier, P.</em> "<strong><a href='https://arxiv.org/abs/2212.12904'>Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software</a></strong>". <em>In Proceedings of 30th Network and Distributed System Security (NDSS'23). Internet Society. (Accepted/In press)</em>.
 - <em>Aljaafari, F.K., Menezes, R., Manino, E., Shmarov, F., Mustafa, M.A., Cordeiro, L.C.</em> "<strong>Combining BMC and Fuzzing Techniques for Finding Software Vulnerabilities in Concurrent Programs</strong>". <em>In IEEE Access, vol. 10, pp. 121365-121384, 2022 </em>.
 - <em>Bhayat, A., Georgiou, P., Eisenhofer, C., Kovács, L., Reger, G.</em> "<strong>Lemmaless Induction in Trace Logic</strong>". <em>In International Conference on Intelligent Computer Mathematics (CICM 2022). Lecture Notes in Computer Science, vol 13467, pp. 191-208. Springer, Cham, 2022</em>.
 - <em>Alshmrany, K., Bhayat, A., Brauße, F., Cordeiro, L., Korovin, K., Melham, T., Mustafa, M., Olivier, P., Reger, G., Shmarov, F.</em> "<strong>Position paper: Towards a hybrid approach to protect against memory safety vulnerabilities</strong>". <em>Proceedings of the IEEE Secure Development Conference (SECDEV22), 2022</em>.
